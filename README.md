@@ -1,5 +1,5 @@
 # disacrossizer
-A new audio/video modificater.  
+A new audio/image/video modificater.  
 Yes. This tool is a modificater library for audio, image and video.  
 If you would like to use this, you can use by following the license.
 ## Why are you reinventing something that already exists?
